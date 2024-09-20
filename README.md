@@ -35,9 +35,5 @@ To start the application, run:
    ```bash
    npm start
 
-
-This will open Expo in your browser, allowing you to run the app on an emulator or your mobile device.
-
-Acknowledgments
-
-Thank you to the React Native and Expo communities for their amazing resources
+/* This will open Expo in your browser, allowing you to run the app on an emulator or 
+  your mobile device. */

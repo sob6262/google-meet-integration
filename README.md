@@ -30,7 +30,8 @@ Installation
 
 Running the Project
 To start the application, run:
-   npm start
+npm start
+
 This will open Expo in your browser, allowing you to run the app on an emulator or your mobile device.
    
 

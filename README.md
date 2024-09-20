@@ -21,19 +21,23 @@ Installation
    ```bash
    git clone https://github.com/YourUsername/GoogleMeetIntegration.git
 
-2. Navigate to the project directory:
+2. Clone the repository:
+   ```bash
    cd GoogleMeetIntegration
 
-3. Install dependencies:
+3. Install Dependencies:
+   ```bash
    npm install
 
 
-Running the Project
+Running the Project:
 To start the application, run:
-npm start
+   ```bash
+   npm start
 
 This will open Expo in your browser, allowing you to run the app on an emulator or your mobile device.
    
 
 Acknowledgments
+
 Thank you to the React Native and Expo communities for their amazing resources

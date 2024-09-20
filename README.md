@@ -35,8 +35,8 @@ To start the application, run:
    ```bash
    npm start
 
+
 This will open Expo in your browser, allowing you to run the app on an emulator or your mobile device.
-   
 
 Acknowledgments
 

@@ -19,11 +19,11 @@ Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/GoogleMeetIntegration.git
+   git clone https://github.com/sob6262/google-meet-integration.git
 
 2. Clone the repository:
    ```bash
-   cd GoogleMeetIntegration
+   cd "C:\Users\Sheena\Documents\Projects"
 
 3. Install Dependencies:
    ```bash
@@ -33,7 +33,8 @@ Installation
 Running the Project:
 To start the application, run:
    ```bash
-   npm start
+   npm expo start
+
 
 /* This will open Expo in your browser, allowing you to run the app on an emulator or 
   your mobile device. */

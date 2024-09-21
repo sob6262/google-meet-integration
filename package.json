@@ -4,12 +4,18 @@
   "description": "Google Meet Integration",
   "main": "index.js",
   "scripts": {
-    "start": "node src/components/App.js",
+    "start": "expo start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "expo": "51.0.32",
+    "react": "^18.0.0",           // Add React dependency
+    "react-dom": "^18.0.0",       // Add React DOM dependency
+    "react-native": "^0.71.0"     // Add React Native dependency
+  }
 }
 
 

@@ -11,10 +11,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "expo": "51.0.32",
+    "expo": "^51.0.34", // Ensure you use the latest version here
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-native": "^0.71.0"
+  },
+  "devDependencies": {
+    "@expo/cli": "^latest" // Add this if you are using Expo CLI commands
   }
 }
 
